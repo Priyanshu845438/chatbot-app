@@ -1,0 +1,5 @@
+{
+  "name": "HealthPal AI Chat",
+  "description": "A conversational AI assistant, HealthPal, focused on providing general health and wellness suggestions using the Gemini API.",
+  "requestFramePermissions": []
+}
