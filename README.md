@@ -52,3 +52,7 @@ cd chatbot-app
 ## More projects
 
 Explore [Priyanshu Raj’s public repositories](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) or [follow the GitHub profile](https://github.com/Priyanshu845438) for updates.
+
+## License
+
+[MIT License](LICENSE), copyright (c) 2026 Priyanshu Raj. Third-party dependencies, referenced works, and separately attributed materials retain their own rights and license terms.
