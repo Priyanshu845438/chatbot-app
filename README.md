@@ -47,3 +47,8 @@ Build your own intelligent, context-aware AI chatbot using **React**, **Node.js*
 # Clone the repo
 git clone https://github.com/Priyanshu845438/chatbot-app.git
 cd chatbot-app
+```
+
+## More projects
+
+Explore [Priyanshu Raj’s public repositories](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) or [follow the GitHub profile](https://github.com/Priyanshu845438) for updates.
